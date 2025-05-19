@@ -1,6 +1,6 @@
 {
   "name": "@kne/use-refer-navigate",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "description": "用于在页面导航时自动携带 referer 参数。该 Hook 可以简化在单页应用（SPA）中跟踪页面来源的需求，特别适用于需要记录用户跳转路径的场景。",
   "syntax": {
     "esmodules": true
