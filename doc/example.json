@@ -1,0 +1,17 @@
+{
+  "isFull": false,
+  "list": [
+    {
+      "title": "这里填写示例标题",
+      "description": "这里填写示例说明",
+      "code": "./base.js",
+      "scope": [
+        {
+          "name": "_UseReferNavigate",
+          "packageName": "@kne/current-lib_use-refer-navigate",
+          "importStatement": "import * as _UseReferNavigate from \"@kne/use-refer-navigate\""
+        }
+      ]
+    }
+  ]
+}
