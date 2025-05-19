@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunk_kne_components_use_refer_navigate=self.webpackChunk_kne_components_use_refer_navigate||[]).push([[830],{1830:(e,r,a)=>{a.r(r),a.d(r,{default:()=>t});var n=a(4922),s=a(646);const t=()=>{const e=(0,s.useNavigate)(),[r]=(0,s.useSearchParams)(),a=r.get("referer");return(0,n.useCallback)(((r,n)=>{if(a){const s=new URLSearchParams(r.split("?")[1]);return s.append("referer",a),e(r+"?"+s.toString(),n)}return e(r,n)}),[e,a])}}}]);
+//# sourceMappingURL=830.65adbda2.chunk.js.map
